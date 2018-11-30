@@ -1,0 +1,310 @@
+
+
+
+<!DOCTYPE html>
+<html lang="zh-tw">
+<head>
+<title>Lirmm Seafile</title>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+<meta name="keywords" content="文件 合作 團隊 團體" />
+
+<link rel="shortcut icon" href="/media/img/favicon.ico" />
+<link rel="stylesheet" type="text/css" href="/media/assets/css/bootstrap.min.b00faad199b5.css"/>
+<link rel="stylesheet" type="text/css" href="/media/css/jstree_default_theme/style.min.css" />
+<link rel="stylesheet" type="text/css" href="/media/assets/css/magnific-popup.656241b2c8ed.css" />
+<link rel="stylesheet" type="text/css" href="/media/css/seahub.min.css?t=1497332984" />
+
+<link rel="stylesheet" type="text/css" href="/media/css/file_view_extra.css" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</head>
+
+<body>
+    <div id="wrapper" class="zh-tw">
+        
+        
+        
+
+        <div id="header" class="navbar navbar-fixed-top">
+            <div id="header-inner">
+                
+                <a href="/" id="logo" class="fleft">
+                    
+                    <img src="/media/custom/Logo_Lirmm_trans_S.png" title="Lirmm Seafile" alt="logo" width="117" height="42" />
+                    
+                </a>
+                <button class="sf2-icon-list-view side-nav-toggle hidden-md-up hide" title="側邊導航菜單" id="js-toggle-side-nav" aria-label="側邊導航菜單"></button>
+
+                
+                 
+                <div class="fright" id="lang">
+                    <a href="#" id="lang-context" data-lang="zh-tw">繁體中文 <span class="icon-caret-down"></span></a>
+                    <div id="lang-context-selector" class="sf-popover hide">
+                        <ul class="sf-popover-con">
+                            
+                            <li><a href="/i18n/?lang=ar">العربية</a></li>
+                            
+                            <li><a href="/i18n/?lang=ca">Català</a></li>
+                            
+                            <li><a href="/i18n/?lang=de">Deutsch</a></li>
+                            
+                            <li><a href="/i18n/?lang=el">ελληνικά</a></li>
+                            
+                            <li><a href="/i18n/?lang=en">English</a></li>
+                            
+                            <li><a href="/i18n/?lang=es">Español</a></li>
+                            
+                            <li><a href="/i18n/?lang=es-ar">Español de Argentina</a></li>
+                            
+                            <li><a href="/i18n/?lang=es-mx">Español de México</a></li>
+                            
+                            <li><a href="/i18n/?lang=fi">Suomi</a></li>
+                            
+                            <li><a href="/i18n/?lang=fr">français</a></li>
+                            
+                            <li><a href="/i18n/?lang=he">עברית</a></li>
+                            
+                            <li><a href="/i18n/?lang=hu">Magyar</a></li>
+                            
+                            <li><a href="/i18n/?lang=is">Íslenska</a></li>
+                            
+                            <li><a href="/i18n/?lang=it">Italiano</a></li>
+                            
+                            <li><a href="/i18n/?lang=ja">日本語</a></li>
+                            
+                            <li><a href="/i18n/?lang=ko">한국어</a></li>
+                            
+                            <li><a href="/i18n/?lang=lv">Latvian</a></li>
+                            
+                            <li><a href="/i18n/?lang=nl">Nederlands</a></li>
+                            
+                            <li><a href="/i18n/?lang=pl">Polski</a></li>
+                            
+                            <li><a href="/i18n/?lang=pt-br">Portuguese, Brazil</a></li>
+                            
+                            <li><a href="/i18n/?lang=ru">Русский</a></li>
+                            
+                            <li><a href="/i18n/?lang=sl">Slovenian</a></li>
+                            
+                            <li><a href="/i18n/?lang=sv">Svenska</a></li>
+                            
+                            <li><a href="/i18n/?lang=th">ไทย</a></li>
+                            
+                            <li><a href="/i18n/?lang=tr">Türkçe</a></li>
+                            
+                            <li><a href="/i18n/?lang=uk">українська мова</a></li>
+                            
+                            <li><a href="/i18n/?lang=vi">Tiếng Việt</a></li>
+                            
+                            <li><a href="/i18n/?lang=zh-cn">简体中文</a></li>
+                            
+                            <li><a href="/i18n/?lang=zh-tw">繁體中文</a></li>
+                            
+                        </ul>
+                    </div>
+                </div>
+                
+                
+            </div>
+        </div>
+
+        <div id="main" class="clear container-fluid top-padding">
+            
+    
+    <div id="shared-file-view-hd" class="ovhd">
+        <div class="fleft js-file-info">
+            <h2 class="file-view-hd ellipsis no-bold" title="P1-2-red2-A_Y1_bg_0514.tif">P1-2-red2-A_Y1_bg_0514.tif</h2>
+            
+            <p class="cur-path ellipsis">
+              當前路徑：
+              
+                
+                <a href="/d/91adf057d4e54d23ac17/?p=/">Prostate3D</a> /
+                
+              
+                
+                <a href="/d/91adf057d4e54d23ac17/?p=/Single_color1">Single_color1</a> /
+                
+              
+                
+                P1-2-red2-A_Y1_bg_0514.tif
+                
+              
+              </p>
+            
+        </div>
+
+        <div class="fright js-file-op">
+            
+            
+              <a href="?p=/Single_color1/P1-2-red2-A_Y1_bg_0514.tif&dl=1" class="obv-btn shared-file-op-btn">下載 (8.0 MB)</a>
+            
+        </div>
+    </div>
+
+    
+
+
+<div id="file-view" >
+    
+
+
+    
+    <div id="file-view-tip">
+        
+    </div>
+    
+</div>
+
+
+    <form id="file-save-form" action="" method="post" class="file-choose-form hide"><input type='hidden' name='csrfmiddlewaretoken' value='82Vnh2uVI5TlF8inA2LRn5Ln0e037rfq' />
+        <h3>儲存到：</h3>
+        <div class="dir-tree-cont">
+            <div id="repos-dirs">
+                <span class="loading-icon loading-tip"></span>
+            </div>
+        </div>
+        <input type="hidden" name="s_token" value="91adf057d4e54d23ac17" />
+        <input type="hidden" name="dst_repo" value="" />
+        <input type="hidden" name="dst_path" value="" />
+        <p class="error hide">請點擊選擇目標目錄。</p>
+        <button type="submit" class="submit">提交</button>
+        <button class="simplemodal-close">取消</button>
+    </form>
+
+
+
+            
+            <div id="confirm-popup" class="hide">
+                <div id="confirm-con"></div>
+                <button id="confirm-yes">確定</button>
+                <button class="simplemodal-close">取消</button>
+            </div>
+        </div>
+
+</div><!-- wrapper -->
+
+<script type="text/javascript" src="/media/js/jquery-1.12.1.min.js" id="jquery"></script>
+<script type="text/javascript" src="/media/assets/scripts/lib/jquery.simplemodal.67fb20a63282.js"></script>
+<script type="text/javascript" src="/media/assets/scripts/lib/jquery.ui.tabs.7406a3c5d2e3.js"></script>
+<script type="text/javascript" src="/media/assets/scripts/lib/jstree.min.baba5642f663.js"></script>
+<script type="text/javascript" src="/media/js/jq.min.js"></script>
+<script type="text/javascript" src="/media/js/base.js?t=1497332984"></script>
+<script type="text/javascript">
+function ajaxErrorHandler(xhr, textStatus, errorThrown) {
+    if (xhr.responseText) {
+        feedback($.parseJSON(xhr.responseText).error||$.parseJSON(xhr.responseText).error_msg, 'error');
+    } else {
+        feedback("操作失敗。請檢查網絡是否已連接。", 'error');
+    }
+}
+ 
+(function() {
+    var lang_context = $('#lang-context'),
+        lang_selector = $('#lang-context-selector');
+
+    lang_context.parent().css({'position':'relative'});
+    lang_selector.css({
+        'top': lang_context.position().top + lang_context.height() + 5,
+        'right': 0
+    });
+
+    var setLangSelectorMaxHeight = function() {
+        $('.sf-popover-con', lang_selector).css({
+            'max-height': $(window).height() - lang_selector.offset().top - 12
+        });
+    };
+    $(window).resize(function() {
+        if (lang_selector.is(':visible')) {
+            setLangSelectorMaxHeight();
+        }
+    });
+
+    lang_context.click(function() {
+        lang_selector.toggleClass('hide');
+        if (lang_selector.is(':visible')) {
+            setLangSelectorMaxHeight();
+        }
+        return false;
+    });
+
+    $(document).click(function(e) {
+        var element = e.target || e.srcElement;
+        if (element.id != 'lang-context-selector' && element.id != 'lang-context') {
+            lang_selector.addClass('hide');
+        }
+    });
+})();
+
+
+if ($('.side-nav').length) {
+    $('#logo').addClass('hidden-sm-down');
+    $('#js-toggle-side-nav').removeClass('hide');
+}
+$('#js-toggle-side-nav').click(function() {
+    $('.side-nav').css({'left': 0});
+    return false;
+});
+$('.js-close-side-nav').click(function() {
+    $('.side-nav').css({'left': '-300px'});
+    return false;
+});
+$(window).resize(function() {
+    if ($(window).width() >= 768) {
+        $('.side-nav').css({'left': 0});
+    }
+});
+</script>
+
+
+
+
+
+
+
+<script type="text/javascript">
+$(function() {
+    var dld_btn = $('.obv-btn').clone();
+    dld_btn.html("下載").attr('class', 'sf-btn-link big-btn-link');
+    $('#file-view-tip').append(dld_btn);
+});
+$(function () {
+    var $hd = $('#shared-file-view-hd');
+    $('.js-file-info', $hd).css({'max-width': $hd.width() - $('.js-file-op', $hd).outerWidth(true) - 10});
+});
+
+
+function setFileViewAreaHeight() {
+    $('body').css({'overflow':'auto'});
+    var file_view = $('#file-view').css({'height': 'auto'});
+    if ($(window).height() > file_view.outerHeight(true) + file_view.offset().top) {
+        file_view.outerHeight($(window).height() - file_view.offset().top);
+    }
+}
+$(window).load(setFileViewAreaHeight).resize(setFileViewAreaHeight);
+
+
+
+
+
+
+
+
+
+
+</script>
+
+</body>
+</html>
